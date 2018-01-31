@@ -1,0 +1,1 @@
+//component for include all the videos on the right as a list - parent
